@@ -6,8 +6,6 @@
 [![Windows 11](https://img.shields.io/badge/OS-Windows%2011-0078D4.svg)](https://www.microsoft.com/windows)
 [![Power BI](https://img.shields.io/badge/Power%20BI-Desktop-F2C811.svg)](https://powerbi.microsoft.com/)
 
-> **Como visualizar:** no GitHub, abra a pagina principal do repositorio (nao o link "Raw").
-> No Cursor/VS Code, use **Preview** (`Ctrl+Shift+V`). Abrir o `.md` direto no navegador mostra o texto cru, sem formatacao.
 
 ---
 ## Sobre o Projeto
