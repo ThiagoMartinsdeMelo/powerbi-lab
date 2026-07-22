@@ -1,0 +1,40 @@
+# Vagrant
+.vagrant/
+*.box
+
+# Logs
+*.log
+logs/
+scripts/logs/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Temporários
+*.tmp
+*.bak
+~$*
+
+# Secrets (nunca commitar credenciais)
+.env
+*.pem
+*.key
+secrets/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Arquivos grandes gerados localmente
+*.vdi
+*.vmdk
