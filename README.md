@@ -21,7 +21,6 @@ Em vez de instalar manualmente dezenas de ferramentas no Windows, você clona es
 | **Estudantes de BI** | Pratica conexões Power BI → SQL Server, PostgreSQL e MySQL com dados reais |
 | **Analistas de dados** | Explora dashboards, medidas DAX e transformações Power Query sem setup manual |
 | **Devs / DevOps** | Demonstra Infrastructure as Code com Vagrant, WinRM e scripts PowerShell idempotentes |
-| **Portfólio** | Projeto open source documentado, pronto para publicar no GitHub |
 
 ### O que você ganha?
 
